@@ -33,7 +33,7 @@
       <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://localhost:8082/#admin/repository/maven-release/</url>
+            <url>http://localhost:8082/repository/maven-releases//</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
