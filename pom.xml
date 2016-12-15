@@ -33,13 +33,13 @@
       <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://localhost:8082/repository/maven-releases/</url>
+            <url>http://localhost:8082/#admin/repository/maven-release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://localhost:8082/repository/maven-snapshots/</url>
-        </snapshotRepository>  
+           <url>http://localhost:8082/#admin/repository/maven-snapshorts/</url>
+		</snapshotRepository>  
     </distributionManagement>
     <build>
     	<finalName>javaee7-simple-sample</finalName>
